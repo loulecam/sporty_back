@@ -1,0 +1,13 @@
+{
+    "users": [
+      {
+        "email": "lou",
+        "password": "123"
+      },
+      {
+        "email": "noura",
+        "password": "4434"
+      }
+    ]
+  }
+  
